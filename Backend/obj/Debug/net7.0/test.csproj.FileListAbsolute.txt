@@ -1,0 +1,15 @@
+/Users/damacm1117/Desktop/test/bin/Debug/net7.0/test
+/Users/damacm1117/Desktop/test/bin/Debug/net7.0/test.deps.json
+/Users/damacm1117/Desktop/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/damacm1117/Desktop/test/bin/Debug/net7.0/test.dll
+/Users/damacm1117/Desktop/test/bin/Debug/net7.0/test.pdb
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/test.dll
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/refint/test.dll
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/test.pdb
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/damacm1117/Desktop/test/obj/Debug/net7.0/ref/test.dll
